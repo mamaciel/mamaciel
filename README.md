@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marcos Maciel
 - 👀 I’m interested in just about everything CS! I have some experience with various languages
-- 🌱 I’m a recent college grad from Ursinus College, class of '22
 - 📫 How to reach me: mamaciel2022@gmail.com
 - 🌎 Website: marcosmaciel.tech
 
